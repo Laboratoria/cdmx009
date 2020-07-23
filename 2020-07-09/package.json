@@ -1,0 +1,18 @@
+{
+  "name": "2020-07-09",
+  "version": "1.0.0",
+  "description": "Ejercicio: https://gist.github.com/lupomontero/31527656c560e3c4b1b5ab04d44d0db7",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.10.4",
+    "@babel/preset-env": "^7.10.4",
+    "babel-jest": "^26.1.0",
+    "jest": "^26.1.0"
+  }
+}

@@ -1,6 +1,6 @@
-# Taller/Q&A - 16 Jul 2020 - @lupomontero
+# Cápsula de testing con React y @testing-library y despliegue a GitHub Pages con @lupomontero - 16 Jul 2020
 
-[![CDMX009: Taller/Q&A - 16 Jul 2020 - @lupomontero](https://img.youtube.com/vi/TALWGR5DZWA/0.jpg)](https://youtu.be/TALWGR5DZWA)
+[![CDMX009: Cápsula de testing con React y @testing-library y despliegue a GitHub Pages con @lupomontero - 16 Jul 2020](https://img.youtube.com/vi/TALWGR5DZWA/0.jpg)](https://youtu.be/TALWGR5DZWA)
 
 ## Agenda
 

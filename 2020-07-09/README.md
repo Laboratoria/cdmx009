@@ -1,6 +1,6 @@
-# Taller/Q&A - 9 Jul 2020 - @lupomontero
+# Taller - Ejercicio La tiranía de la ecuación de cohete con @lupomontero - 9 Jul 2020
 
-[![CDMX009: Taller/Q&A - 9 Jul 2020 - @lupomontero](https://img.youtube.com/vi/u6tYtWmu6L4/0.jpg)](https://youtu.be/u6tYtWmu6L4)
+[![CDMX009: Taller - Ejercicio La tiranía de la ecuación de cohete con @lupomontero - 9 Jul 2020](https://img.youtube.com/vi/u6tYtWmu6L4/0.jpg)](https://youtu.be/u6tYtWmu6L4)
 
 ## Links
 

@@ -1,6 +1,6 @@
-# Taller/Q&A - 23 Jul 2020 - @lupomontero
+# Taller - Ejercicio Hola Carrusel (React) con @lupomontero - 23 Jul 2020
 
-[![CDMX009: Taller/Q&A - 23 Jul 2020 - @lupomontero](https://img.youtube.com/vi/DGRWRPWteps/0.jpg)](https://youtu.be/DGRWRPWteps)
+[![CDMX009: Taller - Ejercicio Hola Carrusel (React) con @lupomontero - 23 Jul 2020](https://img.youtube.com/vi/DGRWRPWteps/0.jpg)](https://youtu.be/DGRWRPWteps)
 
 ## Links
 

@@ -1,11 +1,10 @@
-# Taller/Q&A - 2 Jul 2020 - @lupomontero
+# Taller - Ejercicio No hay tiempo para un taxi (control de flujo) con @lupomontero - 2 Jul 2020
 
-[![CDMX009: Taller/Q&A - 2 Jul 2020 - @lupomontero](https://img.youtube.com/vi/u6tYtWmu6L4/0.jpg)](https://youtu.be/u6tYtWmu6L4)
+[![CDMX009: Taller - Ejercicio No hay tiempo para un taxi (control de flujo) con @lupomontero - 2 Jul 2020](https://img.youtube.com/vi/u6tYtWmu6L4/0.jpg)](https://youtu.be/u6tYtWmu6L4)
 
 ## Links
 
 * Enunciado del ejercicio de hoy: https://gist.github.com/lupomontero/7ee35fec297cc752e501ca2cb512ed71
-* Solución que escribimos en conjunto: https://gist.github.com/lupomontero/b82a9467ecdd4ba8f32ee7e32556226f
 * Enunciado de ejercicio alternativo (no nos alcanzó el tiempo para ver soluciones): https://gist.github.com/lupomontero/839579cbdd71fdcb02ca49a74a16107b
 * Fuentes de ejercicios:
   - https://adventofcode.com/

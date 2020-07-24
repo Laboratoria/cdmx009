@@ -1,6 +1,6 @@
-# Lighning talk por Esther Manrique + Q&A - 18 Jun 2020 - @lupomontero
+# Lighning talk por Esther Manrique + Q&A de asincronía con @lupomontero - 18 Jun 2020
 
-[![CDMX009: Cápsula React 1 - 17 Jun 2020 - @merunga](https://img.youtube.com/vi/9EE0eboaV98/0.jpg)](https://youtu.be/9EE0eboaV98)
+[![CDMX009: Lighning talk por Esther Manrique + Q&A - 18 Jun 2020 - @lupomontero](https://img.youtube.com/vi/9EE0eboaV98/0.jpg)](https://youtu.be/9EE0eboaV98)
 
 ## Links
 

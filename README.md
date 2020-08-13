@@ -10,3 +10,4 @@
 * [Taller de git y GitHub con @stephsalazar - 15 Jul 2020](./2020-07-15)
 * [Cápsula de testing con React y @testing-library y despliegue a GitHub Pages con @lupomontero - 16 Jul 2020](./2020-07-16)
 * [Taller - Ejercicio Hola Carrusel (React) con @lupomontero - 23 Jul 2020](./2020-07-23)
+* [Q&A: AMA (Ask Me Anything) - @diananr25 @JackCres_ @lupomontero - 13 Ago 2020](./2020-08-13)
